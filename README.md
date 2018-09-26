@@ -11,5 +11,11 @@ and then you can run the game using the command
 
 ## Todo
 
-[ ] Train my [Neural Network](https://github.com/iJohnMaged/Simple-NeuralNetwork-Py)
+* [ ] Train my [Neural Network](https://github.com/iJohnMaged/Simple-NeuralNetwork-Py)
 implemention to play the game.
+
+### Screenshots
+
+<img src='https://i.postimg.cc/fVx9Kskg/Screen_Shot_2018-09-27_at_12.11.19_AM.png'/>
+<br/>
+<img src='https://i.postimg.cc/hJc7ZYd4/Screen_Shot_2018-09-27_at_12.11.31_AM.png'/>
